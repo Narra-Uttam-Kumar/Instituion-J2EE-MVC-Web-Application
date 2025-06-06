@@ -1,0 +1,121 @@
+@charset "UTF-8";
+*{
+    box-sizing: border-box;
+
+}
+body{
+    margin: auto;
+}
+.u{
+    padding: 0px 0px 0px 5px;
+}
+.t{
+   font-weight: bold;
+
+}
+.img{
+    width: 80px;
+    height: 80px;
+
+}
+.carousel img{
+    height: 80vh;
+}
+.bgimg{
+    background-image: url("./images/bglogin.jpg");
+}
+.footerimg{
+    background-image: url("./images/footer-background.png");
+}
+.akka{
+    background-color: pink;
+}
+.uttam p a {
+    text-decoration:none;
+    color: rgb(0, 0, 0);
+
+}
+.us{
+    color: rgb(104, 93, 102);
+}
+.icon{
+    border-radius: 50%;
+
+}
+.icon1{
+    border-radius: 12px;
+     
+}
+.contact-info p {
+            margin-bottom: 10px;
+        }
+.contact-info i 
+{
+  margin-right: 10px;
+}
+/* .card{
+    color: red;
+    width: 300px;
+    margin: 15px;
+    border-radius: 5%;
+    box-shadow: 0px 3px 3px -2px rgba(0,0,0,0.2) 0px 3px 3px -2px ;
+}
+.card-image > img{
+    width: 300px;
+    border-radius: 1px;
+}
+.card-description{
+    font-size: 16px;
+    text-align: left;
+    margin: 20px;
+} */
+.image8{
+    overflow: hidden;
+
+}
+.inner-image8{
+    transition: 0.3s;
+
+
+}
+.inner-image8:hover{
+    transform: scale(1.2);
+}
+.uk{
+    background-image: url("./images/about1.jpg");
+}
+.about1{
+    height: 40vh;
+}
+.pos{
+    position: relative;
+    overflow: hidden;
+}
+.pos1{
+    position: absolute;
+    top: 50%;
+    left: 45%;
+    color: rgba(13, 15, 19, 0.932); 
+}
+.h{
+    font-weight: 500;
+    font-family: poppins;
+    font-size: 64px;
+}
+.Ac{
+    color: white;
+}
+.C1{
+    text-decoration: none;
+    color: black;
+}
+.j{
+    height: 100%;
+}
+.dot{
+    padding-top: 50%;
+}
+.siz{
+     width: 100px; 
+     height: 100px;
+}
