@@ -66,7 +66,7 @@ institutions/
 ## 🙋‍♂️ Author
 
 **Uttam Kumar Narra**  
-[LinkedIn](https://www.linkedin.com/in/uttam-kumar-narra-54145024b/) • [GitHub](https://github.com/UttamkumarNarra) • [Portfolio](https://uttamkumarportfolio.vercel.app/)
+[LinkedIn](https://github.com/Narra-Uttam-Kumar) • [GitHub](https://github.com/UttamkumarNarra) • [Portfolio](https://uttamkumarportfolio.vercel.app/)
 
 ---
 
